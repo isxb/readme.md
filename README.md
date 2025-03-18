@@ -1,6 +1,4 @@
 ## 👋 Olá, eu sou o Igor Xavier de Brito!
-### 💻 Desenvolvedor Full Stack | Python | JavaScript | MySQL
-
 ![Banner](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
@@ -26,13 +24,6 @@ Sou um desenvolvedor full stack apaixonado por tecnologia e inovação. Com expe
 
 💡 Além disso, tenho experiência com desenvolvimento web, automação e integração de sistemas!
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical"/>
 </div>
 
 ---
@@ -40,6 +31,6 @@ Sou um desenvolvedor full stack apaixonado por tecnologia e inovação. Com expe
 ### 📫 Contato
 
 📧 **E-mail:** am.igorsxb@email.com  
-💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://www.linkedin.com/in/isxb/)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/isxb/](https://www.linkedin.com/in/isxb/)  
 
 Vamos conversar e construir algo incrível juntos! 🚀
