@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor full stack apaixonado por tecnologia e inovação. Com experiência em **Python, JavaScript, HTML, CSS e MySQL**, gosto de transformar ideias em soluções eficientes e escaláveis. Atualmente, estou trabalhando em projetos para adquirir conhecimento e experiências.
+Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação. Com experiência em **Python, JavaScript, HTML, CSS e MySQL**, gosto de transformar ideias em soluções eficientes e escaláveis. Atualmente, estou trabalhando em projetos para adquirir conhecimento e experiências.
 
 - 🔥 Sempre buscando novos desafios
 - 📚 Estudando tecnologias emergentes
